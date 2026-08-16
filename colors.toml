@@ -1,0 +1,35 @@
+# Hackers 1995 — usable CRT. Peach is a warm highlight, not UI text.
+mode = "dark"
+
+accent = "#e84cff"
+selection = "#39c96a"
+muted = "#4a3a55"
+
+background = "#0a0612"
+dark_background = "#050208"
+darker_background = "#020104"
+lighter_background = "#1a1028"
+
+foreground = "#c8ffd4"
+dark_foreground = "#4a7a58"
+light_foreground = "#e0ffe8"
+bright_foreground = "#f0fff4"
+
+hyprland_active_border = "rgba(e84cffff) rgba(39ff14ee) 45deg"
+hyprland_inactive_border = "rgba(2a1545aa)"
+
+red = "#ff4d2a"
+yellow = "#d6ff3a"
+orange = "#ff7a2e"
+green = "#39c96a"
+cyan = "#2de8ff"
+blue = "#5a72c5"
+magenta = "#e84cff"
+brown = "#ECCDBE"
+
+bright_red = "#ff7a4d"
+bright_yellow = "#ecff6a"
+bright_green = "#39ff14"
+bright_cyan = "#7af0ff"
+bright_blue = "#7c93fd"
+bright_magenta = "#f48cff"
