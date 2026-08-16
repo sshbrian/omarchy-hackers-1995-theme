@@ -4,6 +4,26 @@ A CRT theme for [Omarchy](https://omarchy.org) inspired by the 1995 film *Hacker
 
 ![Kate Libby](backgrounds/01-kate-libby.jpg)
 
+## Style
+
+Four workspaces on the theme:
+
+**Workspace 1** — Grok, btop, fastfetch
+
+![Workspace 1](docs/workspace-1.jpg)
+
+**Workspace 2** — Browser
+
+![Workspace 2](docs/workspace-2.jpg)
+
+**Workspace 3** — Neovim
+
+![Workspace 3](docs/workspace-3.jpg)
+
+**Workspace 4** — btop
+
+![Workspace 4](docs/workspace-4.jpg)
+
 ## Install
 
 ```bash
